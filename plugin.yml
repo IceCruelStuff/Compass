@@ -1,5 +1,5 @@
 name: Compass
-version: 1.12.0
+version: 1.12.1
 main: Compass\CompassBar
 api: 3.0.0, 4.0.0
 description: Powerful API plugin. API added by IceCruelStuff
